@@ -44,3 +44,8 @@ You can close the shell at this point. PM2 will keep the servers running.  You c
 ## Restart On Boot
 
 This doc doesn't cover setting up these apps as true windows daemons that start when the server reboots.  So you will have to do it manually. This certainly can be done. We just haven't had the need yet.
+
+## Questions and Contributions
+Please post your questions to the Issues here. 
+
+Pull requests welcome.
